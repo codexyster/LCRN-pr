@@ -2,7 +2,7 @@
 
 ## pip list
 
-```python
+```
 Package                   Version
 ------------------------- --------------
 anaconda-anon-usage       0.5.0
